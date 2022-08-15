@@ -38,3 +38,7 @@ sed -i -e '/^#!\//, 1d' pefile.py
 %py_install
 
 %files
+%{python_sitelib}/pefile-%{version}-py*.*.egg-info
+%{python_sitelib}/pefile.py
+%{python_sitelib}/peutils.py
+%{python_sitelib}/ordlookup/
