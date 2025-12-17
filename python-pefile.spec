@@ -1,6 +1,6 @@
 Name:           python-pefile
 Version:        2024.8.26
-Release:        2
+Release:        3
 Summary:        A python module to work with PE (pertable executable) files
 License:        BSD-3-Clause
 Group:          Development/Languages/Python
